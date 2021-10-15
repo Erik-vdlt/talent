@@ -1,2 +1,2 @@
 # talent
-# que paso
+# pagina para la clase
